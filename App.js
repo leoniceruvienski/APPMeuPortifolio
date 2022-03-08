@@ -96,13 +96,11 @@ const styles = StyleSheet.create({
   content:{
     alignItems: 'center',
     justifyContent: 'center'
-  
   },
   logo: {
     marginTop: 10,
     height: 150,
-    width: 150, 
-       
+    width: 150,     
   },
   texto:{   
     padding: 50,
